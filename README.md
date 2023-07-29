@@ -5,14 +5,14 @@
 
 ## Índice 
 
-* [Título e Imagem de capa](##Título-e-Imagem-de-capa)
-* [Índice](##índice)
-* [Descrição do Projeto](##descrição-do-projeto)
-* [Instruções de Uso](##instrução-de-uso)
-* [Funcionalidades](##funcionalidades)
-* [Perguntas Respondidas](##perguntas-respondidas)
-* [Tecnologias utilizadas](##tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](##pessoas-desenvolvedoras)
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Instruções de Uso](#instrução-de-uso)
+* [Funcionalidades](#funcionalidades)
+* [Perguntas Respondidas](#perguntas-respondidas)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 
 ## Descrição do Projeto
