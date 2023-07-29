@@ -1,6 +1,6 @@
 # Relatório_Emp_Sftware
 
-![tb_trabalho](https://github.com/AliceCalage79/Relatorio_Software/assets/132007913/6f384b14-0b95-48c6-b45e-30833a28f106)
+![tabela carga horaria ](https://i.imgur.com/XRkaVce.png)
 
 
 # Índice 
