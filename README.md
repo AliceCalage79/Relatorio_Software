@@ -38,8 +38,8 @@ Algumas perguntas para direcionar a análise:
 ## Instruções de uso
 
 Clonar o diretório:
-* 1° Salvar em seu drive;
-* 2° abrir o arquivo .ipynb
+* abtir o COLAB;
+* abrir o arquivo .ipynb
 
 ## Funcionalidades
 
