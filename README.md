@@ -40,7 +40,6 @@ Algumas perguntas para direcionar a análise:
 Clonar o diretório:
 * 1° Salvar em seu drive;
 * 2° abrir o arquivo .ipynb
-* 3° importar o .csv
 
 ## Funcionalidades
 
