@@ -55,7 +55,9 @@ Algumas perguntas para direcionar a análise:
   - Será que o índice de horas trabalhadas aconhpanha o de tarefas concluídas?
     
 ## Tecnologias Utilizadas
-https://colab.research.google.com/github/AliceCalage79/Relatorio_Software/tree/main
+<a target="_blank" href="https://colab.research.google.com/github/AliceCalage79/Relatorio_Software/tree/main">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ![pandas](https://i.imgur.com/1I7NOxR.jpg)
 ![colab](https://i.imgur.com/fzXvCHa.jpg)
